@@ -1,0 +1,7 @@
+{
+  "name": "AI Fitness Coach",
+  "description": "An AI-powered fitness coach providing personalized workout routines, real-time pose detection, and an intelligent chatbot to help you reach your fitness goals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
